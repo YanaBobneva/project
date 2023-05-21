@@ -1,3 +1,1 @@
-INFORMATION TECHNOLOG
 # My Project
-*****************
